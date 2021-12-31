@@ -1,0 +1,24 @@
+
+
+const promise =  new Promises((resolve,reject)=>{
+
+//promise task
+
+if (success):
+    resolve(//some data);
+    else
+    reject(//some data);
+
+});
+
+
+promise.then((//somedata)=>{
+ rendertask
+ return apicall();
+}).then()
+
+.catch((data=>{
+
+}));
+
+callback(callbackck(calback))
